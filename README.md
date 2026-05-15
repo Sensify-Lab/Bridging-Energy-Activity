@@ -113,10 +113,12 @@ The full participant-level dataset is not publicly released due to IRB and parti
 
 ## Citation
 
+**ACM Reference Format:**
 ```ACM Reference
 
 Fatimah Mohammad Alhassan and Matthew Louis Mauriello. 2026. Bridging Energy and Activity: Forecasting Residential Electricity Use with Wearable Activity Tracker Data. In The 13th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '26), June 22--25, 2026, Banff, AB, Canada. ACM, New York, NY, USA 12 Pages. https://doi.org/10.1145/3744256.3812579
 ```
+**BibTeX:**
 ```bibtex
 @inproceedings{TBD,
   title     = {Bridging Energy and Activity: Forecasting Residential Electricity Use with Wearable Activity Tracker Data},
