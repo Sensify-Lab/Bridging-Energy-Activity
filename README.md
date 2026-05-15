@@ -3,7 +3,7 @@
 
 **Authors:** Fatimah Mohammad Alhassan and Matthew Louis Mauriello
 
-**Venue:** In The 13th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '26), June 22--25, 2026, Banff, AB, Canada.  
+**Venue:** In The 13th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '26), June 22-25, 2026, Banff, AB, Canada.  
 
 **DOI:** [https://doi.org/10.1145/3744256.3812579]  
 
