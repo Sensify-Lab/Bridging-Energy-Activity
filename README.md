@@ -1,6 +1,6 @@
 # Bridging Energy and Activity: Forecasting Residential Electricity Use with Wearable Activity Tracker Data
 
-
+> **Repository status:** This repository is being prepared for the BuildSys '26 proceedings in June 2026. We are currently uploading the analysis code and supplementary materials to support reproducibility.
 **Authors:** Fatimah Mohammad Alhassan and Matthew Louis Mauriello
 
 **Venue:** In The 13th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '26), June 22-25, 2026, Banff, AB, Canada.  
