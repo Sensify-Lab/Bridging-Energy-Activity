@@ -91,7 +91,7 @@ pip install numpy pandas matplotlib seaborn scipy
 
 To encourage further research and support reproducibility, the analysis code and supplementary individual household forecasting results are available in this repository.
 
-The full participant-level dataset is not publicly released due to IRB and participant privacy requirements. Researchers interested in accessing the full dataset may contact the authors at sensifylab@gmail.com or or alhassan@udel.edu. 
+The full participant-level dataset is not publicly released due to IRB and participant privacy requirements. Researchers interested in accessing the full dataset may contact the authors at sensifylab@gmail.com or alhassan@udel.edu. 
 
 **Approved access will require a Data Usage Agreement consistent with the study's IRB protocol and institutional requirements.**
 
