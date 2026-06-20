@@ -119,9 +119,9 @@ Fatimah Mohammad Alhassan and Matthew Louis Mauriello. 2026. Bridging Energy and
 ```
 **BibTeX:**
 ```bibtex
-@inproceedings{TBD,
-  title     = {Bridging Energy and Activity: Forecasting Residential Electricity Use with Wearable Activity Tracker Data},
-  author    = {Fatimah Mohammad Alhassan and Matthew Louis Mauriello},
+@article{alhassan2026bridging,
+  title={Bridging Energy and Activity: Forecasting Residential Electricity Use with Wearable Activity Tracker Data},
+  author={Alhassan, Fatimah Mohammad and Mauriello, Matthew Louis},
   booktitle = {Proceedings of The 13th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '26)},
   year      = {2026},
   location  = {Banff, AB, Canada},
