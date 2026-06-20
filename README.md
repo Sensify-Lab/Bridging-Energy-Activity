@@ -45,11 +45,13 @@ These results are derived forecasting-error outputs. They do not include raw ele
 
 | File | Purpose | Output |
 |---|---|---|
-| `pvalue_table_day.py` | 1-Day statistical analysis | Console table: means, SDs, paired tests, Wilcoxon tests, correlations |
-| `pvalue_table_week.py` | 1-Week statistical analysis | Console table: means, SDs, paired tests, Wilcoxon tests, correlations |
-| `pvalue_table_month.py` | 1-Month statistical analysis | Console table: means, SDs, paired tests, Wilcoxon tests, correlations |
-| `mape_by_horizon_subplots.py` | MAPE comparison across horizons, models, and feature sets | `mape_by_horizon_subplots_SE.pdf`, `mape_by_horizon_subplots_SE.png` |
-| `delta_mape_plots_fixed.py` | Delta-MAPE comparison against Load Profile baseline | `delta_mape_plots_with_sig.pdf`, `delta_mape_plots_with_sig.png` |
+| `Data_Wrangling.ipynb` | Cleans, merges, and prepares the study datasets      | Processed data used by forecasting scripts| 
+| `forecast_24h.py` | Runs 24-hour-ahead forecasting models | Day-ahead forecasts and evaluation metrics |
+| `forecast_168h.py` | Runs 168-hour-ahead forecasting models   | Week-ahead forecasts and evaluation metrics|
+| `forecast_720h.py` | Runs 720-hour-ahead forecasting models   | 30-day-ahead forecasts and evaluation metrics |
+| `paired_mape_statistical_tests.py` | Performs statistical analysis for all three horizons | Means, SDs, paired t-tests, Wilcoxon tests, and correlations |
+| `plot_mape_results.py` | Generates MAPE and delta-MAPE comparison figures     | PDF and PNG figures |
+| `README.md` | Documents the repository  | Repository documentation |
 
 Additional figures may be included in the repository as supplementary visualizations beyond those shown in the paper.
 
@@ -82,23 +84,6 @@ Significance labels:
 
 ```bash
 pip install numpy pandas matplotlib seaborn scipy
-```
-
-## Usage
-
-Run the statistical scripts:
-
-```bash
-python pvalue_table_day.py
-python pvalue_table_week.py
-python pvalue_table_month.py
-```
-
-Generate figures:
-
-```bash
-python mape_by_horizon_subplots.py
-python delta_mape_plots_fixed.py
 ```
 
 
